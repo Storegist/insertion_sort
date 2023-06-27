@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntumaster/Documents/test/insertion_sort/constants.h
+
+/home/ubuntumaster/Documents/test/insertion_sort/insertionsort.cpp
+iostream
+-
+constants.h
+/home/ubuntumaster/Documents/test/insertion_sort/constants.h
+
+/home/ubuntumaster/Documents/test/insertion_sort/main.cpp
+iostream
+-
+constants.h
+/home/ubuntumaster/Documents/test/insertion_sort/constants.h
+insertionsort.cpp
+/home/ubuntumaster/Documents/test/insertion_sort/insertionsort.cpp
+printarray.cpp
+/home/ubuntumaster/Documents/test/insertion_sort/printarray.cpp
+
+/home/ubuntumaster/Documents/test/insertion_sort/printarray.cpp
+iostream
+-
+constants.h
+/home/ubuntumaster/Documents/test/insertion_sort/constants.h
+

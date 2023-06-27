@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ubuntumaster/Documents/test/insertion_sort/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/insertion_sort.dir/main.cpp.o -c /home/ubuntumaster/Documents/test/insertion_sort/main.cpp",
+  "file": "/home/ubuntumaster/Documents/test/insertion_sort/main.cpp"
+}
+]

@@ -1,0 +1,5 @@
+/home/ubuntumaster/Documents/test/insertion_sort/build/CMakeFiles/edit_cache.dir
+/home/ubuntumaster/Documents/test/insertion_sort/build/CMakeFiles/package_source.dir
+/home/ubuntumaster/Documents/test/insertion_sort/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntumaster/Documents/test/insertion_sort/build/CMakeFiles/package.dir
+/home/ubuntumaster/Documents/test/insertion_sort/build/CMakeFiles/insertion_sort.dir
